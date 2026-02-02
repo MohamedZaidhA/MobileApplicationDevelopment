@@ -16,6 +16,10 @@ Just download the folder, Open it in Android Studio run and experience the App
 
 ## UI
 
-<img width="537" height="835" alt="Screenshot" src="" />
+<img width="376" height="714" alt="Screenshot 2026-02-02 170652" src="https://github.com/user-attachments/assets/22af58fa-a722-4b30-a810-8777fcd1b4a7" />
+
 
 # App
+
+https://github.com/user-attachments/assets/f9edbb33-9b2f-4fb4-8eb1-78ae9b85e8dc
+
