@@ -25,7 +25,11 @@ This experiment focuses on building a Calculator application. The app allows use
 4. Run the app on an emulator or physical device
 
 ## UI
-*Screenshot placeholder - Add your calculator app screenshot here*
+<img width="376" height="548" alt="image" src="https://github.com/user-attachments/assets/48be9ca7-7e95-4b35-8473-c60300ed81e8" />
+
 
 ## App Demo
-*Video placeholder - Add your app demo video here*
+
+https://github.com/user-attachments/assets/0eec1b98-df90-4b62-a77a-db655adb5e19
+
+
