@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Basic Calculator"
+        android:textAlignment="center"
+        android:textSize="50dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/Value1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Value 1:"
+            android:inputType="numberDecimal"
+            android:textSize="25dp" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/Value2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Value 2:"
+            android:inputType="numberDecimal"
+            android:textSize="25dp" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/add"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="+"
+            android:textAlignment="center"
+            android:textSize="30dp" />
+
+        <Button
+            android:id="@+id/sub"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="-"
+            android:textAlignment="center"
+            android:textSize="30dp" />
+
+        <Button
+            android:id="@+id/Mul"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="X"
+            android:textAlignment="center"
+            android:textSize="30dp" />
+
+        <Button
+            android:id="@+id/Divide"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="/"
+            android:textAlignment="center"
+            android:textSize="30dp" />
+
+        <Button
+            android:id="@+id/mod"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="%"
+            android:textAlignment="center"
+            android:textSize="30dp" />
+
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/Result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:text="Result" />
+
+
+</LinearLayout>
