@@ -291,13 +291,13 @@
 
             <Button
                 android:id="@+id/equal"
-                android:layout_width="59dp"
+                android:layout_width="69dp"
                 android:layout_height="75dp"
                 android:layout_marginLeft="10dp"
                 android:layout_weight="1"
+                android:backgroundTint="#FF9800"
                 android:gravity="center"
                 android:text="="
-                android:backgroundTint="#FF9800"
                 android:textSize="30dp" />
 
             <Button
@@ -313,13 +313,13 @@
 
             <Button
                 android:id="@+id/dot"
-                android:layout_width="50dp"
+                android:layout_width="65dp"
                 android:layout_height="75dp"
                 android:layout_marginLeft="10dp"
                 android:layout_weight="1"
+                android:backgroundTint="#747474"
                 android:gravity="center"
                 android:text="."
-                android:backgroundTint="#747474"
                 android:textSize="40dp" />
 
         </LinearLayout>
