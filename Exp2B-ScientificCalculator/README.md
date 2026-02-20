@@ -39,7 +39,13 @@ This experiment focuses on building an advanced Calculator application. The app 
 - **Error Validation**: Input validation and arithmetic error handling
 
 ## UI
-![image]
+
+<img width="358" height="643" alt="Screenshot 2026-02-11 222606" src="https://github.com/user-attachments/assets/c5cdf805-3717-4dbc-b41b-6a9fa0f9feb2" />
+
 
 ## App Demo
-Running.Devices.-.Exp5.2026-02-11.10-58-01.mp4
+
+Uploading Running Devices - Exp6-Scientific-Calculator 2026-02-20 12-24-36.mp4…
+
+
+
