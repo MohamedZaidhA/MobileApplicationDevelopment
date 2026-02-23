@@ -45,7 +45,10 @@ This experiment focuses on building an advanced Calculator application. The app 
 
 ## App Demo
 
-Uploading Running Devices - Exp6-Scientific-Calculator 2026-02-20 12-24-36.mp4…
+
+https://github.com/user-attachments/assets/7d61e64a-8a1e-4238-8a5e-689662f4e1ad
+
+
 
 
 
