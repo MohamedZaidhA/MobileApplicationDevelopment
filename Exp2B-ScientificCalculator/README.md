@@ -1,5 +1,5 @@
 # Experiment 2B - Calculator 2.0
-This folder contains the files and resources for Experiment 5 (Advanced Version) of the Mobile Application Development course.
+This folder contains the files and resources for Experiment 2B (Advanced Version) of the Mobile Application Development course.
 
 ## Contents
 This experiment focuses on building an advanced Calculator application. The app allows users to:
