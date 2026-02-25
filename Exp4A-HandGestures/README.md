@@ -22,7 +22,12 @@ This folder contains the source code and resources for the Hand Gestures Android
 4. Run the application on an Android device or emulator.
 
 ## UI
-The application features a minimalist design focused on enhancing user experience, with clear indicators for gesture recognition.
+<img width="373" height="787" alt="Screenshot 2026-02-25 142727" src="https://github.com/user-attachments/assets/a1617c0e-4785-4abf-8bbf-ffd57de7e334" />
+<img width="371" height="791" alt="Screenshot 2026-02-25 142708" src="https://github.com/user-attachments/assets/96e03ca5-76df-483a-b093-15157c675cbc" />
+
 
 ## App Demo
-To see the application in action, please refer to the demo videos in the `docs/` folder. Then you can also test it live by running the app on your device or emulator.
+
+https://github.com/user-attachments/assets/9235a533-b312-4243-8e8c-593dd4acb13b
+
+
