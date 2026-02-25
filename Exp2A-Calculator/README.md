@@ -1,5 +1,5 @@
-# Experiment 5 - Calculator
-This folder contains the files and resources for Experiment 5 of the Mobile Application Development course.
+# Experiment 2A - Calculator
+This folder contains the files and resources for Experiment 2A of the Mobile Application Development course.
 
 ## Contents
 This experiment focuses on building a Calculator application. The app allows users to:
