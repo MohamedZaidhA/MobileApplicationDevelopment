@@ -1,6 +1,6 @@
-# Experiment 2 - Mobile Application Development
+# Experiment 1B - Mobile Application Development
 
-This folder contains the files and resources for Experiment 2 of the Mobile Application Development.
+This folder contains the files and resources for Experiment 1B of the Mobile Application Development.
 
 ## Contents
 
