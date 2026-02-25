@@ -1,6 +1,6 @@
 # Experiment 1C - BMI Calculator
 
-This folder contains the files and resources for Experiment 3 of the Mobile Application Development course.
+This folder contains the files and resources for Experiment 1C of the Mobile Application Development course.
 
 ## Contents
 
