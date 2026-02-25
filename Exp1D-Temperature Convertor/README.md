@@ -1,6 +1,6 @@
 # Experiment 1D - Temperature Converter
 
-This folder contains the files and resources for Experiment 4 of the Mobile Application Development course.
+This folder contains the files and resources for Experiment 1D of the Mobile Application Development course.
 
 ## Contents
 
