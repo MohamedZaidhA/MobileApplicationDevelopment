@@ -22,6 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Kizuna"
+rootProject.name = "kizuna"
 include(":app")
- 
