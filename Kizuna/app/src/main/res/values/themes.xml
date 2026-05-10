@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Kizuna" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">@color/background_white</item>
+        <item name="colorPrimary">@color/primary_yellow</item>
+        <item name="colorOnPrimary">@color/text_main</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/text_main</item>
+        <item name="colorOutlineVariant">@color/container_light_gray</item>
+    </style>
+
+    <style name="Theme.Kizuna" parent="Base.Theme.Kizuna" />
+
+    <!-- Kizuna Design System Styles -->
+    <style name="KizunaCard" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardBackgroundColor">@color/white</item>
+        <item name="cardCornerRadius">24dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="android:stateListAnimator" tools:targetApi="21">@null</item>
+    </style>
+
+    <style name="KizunaButton" parent="Widget.Material3.Button">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.Button</item>
+        <item name="cornerRadius">24dp</item>
+    </style>
+
+    <style name="ThemeOverlay.App.Button" parent="">
+        <item name="colorPrimary">@color/primary_yellow</item>
+        <item name="colorOnPrimary">@color/text_main</item>
+    </style>
+</resources>

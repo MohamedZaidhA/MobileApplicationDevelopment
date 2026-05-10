@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340051540121",
+    "project_id": "kizuna-44897",
+    "storage_bucket": "kizuna-44897.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340051540121:android:8f014a0af19a594020a008",
+        "android_client_info": {
+          "package_name": "com.example.kizuna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbruoNedo0Mj_BpCKAwEIstQy54jcQKjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
 
-        val btFontSize : Button = findViewById(R.id.button)
+        /*val btFontSize : Button = findViewById(R.id.button)
         val font : TextView = findViewById(R.id.Font)
         var btfs : Float = 10.00f
         var btc : Int = 0
@@ -51,6 +51,6 @@ class MainActivity : AppCompatActivity() {
 
 
             }
-        }
+        }*/
     }
 }
